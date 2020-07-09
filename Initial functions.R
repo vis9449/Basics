@@ -66,3 +66,5 @@ bank <- earnings - expenses
 sum(bank)
 
 earnings > expenses
+
+
